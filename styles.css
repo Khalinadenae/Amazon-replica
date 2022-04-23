@@ -1,0 +1,16 @@
+form{
+    margin-top: 10px;
+}
+span{
+    float: right;
+}
+
+
+h7:after,
+h7:before{
+    content:"  \00a\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0  ";
+    text-decoration:line-through;
+}
+h7{
+    text-align: center;
+}
